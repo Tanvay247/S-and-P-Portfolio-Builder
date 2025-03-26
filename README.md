@@ -1,1 +1,1 @@
-# S-P-Portfolio-Builder
+# S&P-Portfolio-Builder
